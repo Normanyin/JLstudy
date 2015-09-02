@@ -3,8 +3,6 @@ package com.geekle.algorithm;
 
 public class MergeSortAlgorithm {
 	
-	
-	
 	/**
 	 * 两个顺序数组进行合并排序
 	 * 
